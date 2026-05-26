@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseender",
+        "uuid": 3445935,
+        "checksum": "xxcnv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
